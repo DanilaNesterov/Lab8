@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="edible">Съедобно</string>
+    <string name="inedible">Несъедобно</string>
+    <string name="right">Правильных ответов:</string>
+    <string name="wrong">Неправильных ответов:</string>
+
+
+</resources>
